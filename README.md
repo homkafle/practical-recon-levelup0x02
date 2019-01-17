@@ -24,3 +24,8 @@ The presentation is built using [reveal-md](https://github.com/webpro/reveal-md)
 1. Clone the repo `git clone git@github.com:appsecco/practical-recon-levelup0x02.git`
 2. Install reveal-md `npm install -g reveal-md`
 3. Once reveal-md is installed, browse to the cloned directory and run the following command `reveal-md -t black.css --separator "\n\n\n\n" --vertical-separator "\n\n\n" practical_recon.md`
+
+
+
+Cont . . .
+amass sub-domain enumeration
